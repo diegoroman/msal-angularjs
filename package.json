@@ -1,0 +1,22 @@
+{
+  "name": "msal-angularjs",
+  "version": "0.1.1",
+  "description": "A bower package for @azure/msal-angularjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlipka/msal-angularjs.git"
+  },
+  "author": "Ricardo Lipka Junior <rlipka@weg.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rlipka/msal-angularjs/issues"
+  },
+  "homepage": "https://github.com/rlipka/msal-angularjs#readme",
+  "dependencies": {
+    "@azure/msal-angularjs": "^0.1.1"
+  }
+}

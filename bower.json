@@ -1,0 +1,17 @@
+{
+  "name": "msal-angularjs",
+  "description": "A bower package for @azure/msal-angularjs",
+  "main": "msal-angular.js",
+  "authors": [
+    "Ricardo Lipka Junior <rlipka@weg.net>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/rlipka/msal-angularjs",
+  "ignore": [
+    "**/.*",
+	"node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
