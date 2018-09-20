@@ -1,8 +1,11 @@
 {
   "name": "msal-angularjs",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A bower package for @azure/msal-angularjs",
-  "main": "msal-angular.js",
+  "main": [
+    "./msal.js",
+    "./msal-angular.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rlipka/msal-angularjs.git"
